@@ -1,2 +1,4 @@
 # FaceDetection
-Face detection test using HAAR Cascade and OpenCV
+Face detection test using HAAR Cascade and OpenCV.
+
+
